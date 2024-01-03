@@ -1,0 +1,11 @@
+
+list out the features of html5?
+
+Semantics
+Audio and Video Support
+Canvas
+Geolocation
+Web Storage
+Web Workers
+Drag and Drop
+Form Enhancements
